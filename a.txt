@@ -1,0 +1,1 @@
+Para o teste de hash tip RIPEMD160
